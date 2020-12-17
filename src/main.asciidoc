@@ -4,7 +4,7 @@ Welcome to La bonne bouffe
 
 
 
-image::../img/img.jpg[Foody image]
+image::img.jpg[Foody image]
 
 
 == Menu
