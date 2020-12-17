@@ -1,0 +1,16 @@
+= La bonne bouffe
+
+Welcome to La bonne bouffe
+
+
+
+image::../img/img.jpg[Foody image]
+
+
+=== Menu
+
+* Fried Honey Chicken
+** Honey Crust Chicken SIZE M
+** Honey Crust Chicken SIZE L
+** Honey Crust Chicken SIZE XL
+** Honey Crust Chicken SIZE XXL
