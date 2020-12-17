@@ -7,7 +7,7 @@ Welcome to La bonne bouffe
 image::../img/img.jpg[Foody image]
 
 
-=== Menu
+== Menu
 
 * Fried Honey Chicken
 ** Honey Crust Chicken SIZE M
